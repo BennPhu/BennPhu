@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BennPhu
-- 👀 I’m interested in coding, bass guitar, boxing and photography
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in coding and photography
+- 🌱 I’m currently learning Python, HTML, and Javascript.
 - 📫 How to reach me: https://www.instagram.com/bennph_/
 - 🎁 My official Github: https://github.com/BennPhu
 
